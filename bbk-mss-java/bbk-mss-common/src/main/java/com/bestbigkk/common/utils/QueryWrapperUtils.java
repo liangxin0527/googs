@@ -10,8 +10,6 @@ import java.util.Arrays;
 import java.util.HashSet;
 
 /**
-* @author: 开
-* @date: 2020-04-19 19:16:29
 * @describe: mybatis-plus query wrapper 条件构造器工具
 */
 

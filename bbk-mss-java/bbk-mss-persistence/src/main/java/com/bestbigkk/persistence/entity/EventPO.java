@@ -14,8 +14,6 @@ import java.io.Serializable;
 import java.time.LocalDateTime;
 
 /**
- * @author xugongkai
- * @since 2020-04-21
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

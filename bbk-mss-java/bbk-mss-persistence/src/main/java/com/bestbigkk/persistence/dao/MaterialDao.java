@@ -7,9 +7,7 @@ import com.bestbigkk.persistence.entity.MaterialPO;
  * <p>
  *  Mapper 接口
  * </p>
- *
- * @author xugongkai
- * @since 2020-04-19
+
  */
 public interface MaterialDao extends BaseMapper<MaterialPO> {
 

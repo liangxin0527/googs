@@ -8,8 +8,7 @@ import com.bestbigkk.persistence.entity.UserPO;
  *  服务类
  * </p>
  *
- * @author xugongkai
- * @since 2020-04-19
+
  */
 public interface IUserService extends IService<UserPO> {
 

@@ -8,9 +8,7 @@ import org.springframework.stereotype.Service;
  * <p>
  *  服务类
  * </p>
- *
- * @author xugongkai
- * @since 2020-04-20
+
  */
 public interface IApprovalService extends IService<ApprovalPO> {
 

@@ -15,8 +15,6 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @author: 开
- * @date: 2020-03-24 21:40:34
  * @describe: 日志对象持久化异步类，异步操作需要独立出来一个类才可以。
  */
 @Component

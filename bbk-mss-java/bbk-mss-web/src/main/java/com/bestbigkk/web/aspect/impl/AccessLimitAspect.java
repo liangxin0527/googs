@@ -16,8 +16,6 @@ import java.lang.reflect.Method;
 import java.util.Map;
 
 /**
-* @author: 开
-* @date: 2020-03-24 15:04:07
 * @describe: 限流切面， 借助Guava中的令牌桶，进行实现。限制各个url的访问速率
 */
 @Slf4j

@@ -7,8 +7,6 @@ import javax.validation.Payload;
 import java.lang.annotation.*;
 
 /**
-* @author: 开
-* @date: 2020-01-18 17:27:58
 * @describe: 校验给定的字段是否在指定集合
 */
 @Target({ElementType.FIELD})

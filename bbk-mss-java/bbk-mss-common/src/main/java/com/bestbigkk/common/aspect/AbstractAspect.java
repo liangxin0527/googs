@@ -5,11 +5,6 @@ import org.springframework.stereotype.Component;
 
 import java.lang.reflect.Method;
 
-/**
-* @author: 开
-* @date: 2020-03-24 15:02:24
-* @describe: 切面实现装饰
-*/
 
 public abstract class AbstractAspect {
 

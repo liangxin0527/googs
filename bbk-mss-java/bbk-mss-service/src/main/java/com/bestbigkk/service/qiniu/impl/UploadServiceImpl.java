@@ -17,8 +17,6 @@ import org.springframework.stereotype.Service;
 import java.io.InputStream;
 
 /**
-* @author: 开
-* @date: 2020-04-25 12:24:23
 * @describe: 七牛云上传实现
 */
 @Slf4j

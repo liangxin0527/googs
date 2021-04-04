@@ -17,9 +17,6 @@ import java.time.LocalDateTime;
  * <p>
  * 操作日志表
  * </p>
- *
- * @author xugongkai
- * @since 2020-03-24
  */
 @Builder
 @NoArgsConstructor

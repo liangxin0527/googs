@@ -4,8 +4,6 @@ import java.lang.annotation.*;
 import java.util.concurrent.TimeUnit;
 
 /**
-* @author: 开
-* @date: 2020-03-24 15:05:12
 * @describe: 限流增强
 */
 @Target( { ElementType.METHOD } )

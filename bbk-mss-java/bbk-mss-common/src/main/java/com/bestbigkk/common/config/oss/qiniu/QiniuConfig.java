@@ -7,8 +7,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import javax.annotation.PostConstruct;
 
 /**
-* @author: 开
-* @date: 2020-04-25 12:18:30
 * @describe: 七牛云配置
 */
 @Data

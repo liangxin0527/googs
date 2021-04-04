@@ -4,8 +4,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.*;
 
 /**
-* @author: 开
-* @date: 2020-03-23 19:04:14
 * @describe: mvc
 */
 @Configuration

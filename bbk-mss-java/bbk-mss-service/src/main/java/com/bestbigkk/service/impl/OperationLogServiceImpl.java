@@ -11,10 +11,7 @@ import org.springframework.stereotype.Service;
 /**
  * <p>
  * 操作日志表 服务实现类
- * </p>
- *
- * @author xugongkai
- * @since 2020-03-24
+
  */
 @Service
 public class OperationLogServiceImpl extends ServiceImpl<OperationLogDao, OperationLogPO> implements IOperationLogService {

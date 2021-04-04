@@ -19,8 +19,6 @@ import java.util.stream.Stream;
 
 /**
  * 记录日志切面
- * @author liugh
- * @since on 2018/5/10.
  */
 @Slf4j
 @Component

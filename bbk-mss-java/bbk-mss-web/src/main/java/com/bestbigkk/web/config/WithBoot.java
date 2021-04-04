@@ -14,8 +14,6 @@ import springfox.documentation.spring.web.plugins.Docket;
 import java.util.Objects;
 
 /**
-* @author: 开
-* @date: 2020-04-19 19:30:14
 * @describe: 伴随启动
 */
 @Slf4j

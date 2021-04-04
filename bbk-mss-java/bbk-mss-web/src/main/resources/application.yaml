@@ -8,10 +8,10 @@ bbk:
     cache: 3600
   oss:
     qiniu:
-      accessKey: xxx
-      secretKey: xxx
-      bucket: material-support-system
-      path: http://mss.oss.bestbigkk.com
+      accessKey: 9WNOMwIa7br96gWPMQJKt5-bdDQT7pqoMwGe5KVB
+      secretKey: jvfy_yvnKg9Pzh26KaWvWzsJmIlL_gmr6ifqs4Cz
+      bucket: lbaci
+      path: qr0r7crl1.hn-bkt.clouddn.com
 server:
   port: 21584
   tomcat:
@@ -132,4 +132,4 @@ mybatis-plus:
   configuration:
     map-underscore-to-camel-case: true
     cache-enabled: false
-    #log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

@@ -8,8 +8,6 @@ import com.bestbigkk.persistence.entity.EventPO;
  *  Mapper 接口
  * </p>
  *
- * @author xugongkai
- * @since 2020-04-21
  */
 public interface EventDao extends BaseMapper<EventPO> {
 

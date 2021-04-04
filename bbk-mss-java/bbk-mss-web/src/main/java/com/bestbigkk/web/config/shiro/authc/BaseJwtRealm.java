@@ -16,8 +16,6 @@ import javax.servlet.ServletRequest;
 import java.util.Objects;
 
 /**
-* @author: 开
-* @date: 2020-03-26 10:25:03
 * @describe: 配合Shiro进行身份，权限校验的Realm，主要从Jwt里获取信息。
  *  这里为了便于再次通用，对Realm再次进行了针对Jwt的封装。后续项目使用的时候，
  *  【需要建立一个具体的子类，实现贴合于当前系统的校验方法，来保证Shiro可用】

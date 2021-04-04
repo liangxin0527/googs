@@ -16,8 +16,6 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 import java.util.Objects;
 
 /**
- * @author: 开
- * @date: 2020-01-18 17:29:30
  * @describe: 对直接响应的数据进行包装
  */
 @Slf4j

@@ -20,8 +20,6 @@ import javax.validation.ConstraintViolationException;
 import java.util.*;
 
 /**
- * @author: 开
- * @date: 2020-03-23 19:58:05
  * @describe: 全局异常处理
  */
 @Slf4j

@@ -7,8 +7,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
-* @author: 开
-* @date: 2020-03-25 15:22:31
 * @describe: 浏览器工具
 */
 public class BrowserUtils {

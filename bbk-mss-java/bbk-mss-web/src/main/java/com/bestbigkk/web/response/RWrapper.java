@@ -13,8 +13,6 @@ import java.time.LocalDateTime;
 import java.util.Objects;
 
 /**
- * @author: 开
- * @date: 2020-03-23 19:12:40
  * @describe: 普通响应
  */
 @Builder

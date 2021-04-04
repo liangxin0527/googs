@@ -7,8 +7,6 @@ import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
 /**
-* @author: 开
-* @date: 2020-01-18 17:27:25
 * @describe: 校验给定字段是否在允许的集合里面实现
 */
 public class PropertyInValidator implements ConstraintValidator<PropertyIn,String> {

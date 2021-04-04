@@ -8,7 +8,6 @@ import org.springframework.http.client.SimpleClientHttpRequestFactory;
 import org.springframework.web.client.RestTemplate;
 
 /**
-* @author: 开
 * @date: 2020-03-25 15:37:09
 * @describe: resetTemplate配置
 */

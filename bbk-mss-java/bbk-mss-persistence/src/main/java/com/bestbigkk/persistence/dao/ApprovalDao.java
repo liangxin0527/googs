@@ -8,8 +8,7 @@ import com.bestbigkk.persistence.entity.ApprovalPO;
  *  Mapper 接口
  * </p>
  *
- * @author xugongkai
- * @since 2020-04-20
+
  */
 public interface ApprovalDao extends BaseMapper<ApprovalPO> {
 

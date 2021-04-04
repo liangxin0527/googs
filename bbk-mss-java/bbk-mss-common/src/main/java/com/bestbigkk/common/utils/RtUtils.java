@@ -12,9 +12,6 @@ import java.util.Map;
 /**
  * RestTemplate 远程调用工具类
  *
- * @author Logan
- * @createDate 2019-02-08
- *
  */
 public class RtUtils {
 

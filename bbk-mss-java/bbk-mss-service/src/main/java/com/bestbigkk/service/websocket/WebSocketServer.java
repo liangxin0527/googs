@@ -9,8 +9,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
-* @author: 开
-* @date: 2020-03-27 11:48:33
+
 * @describe: Websocket 服务端示例
 */
 @Component

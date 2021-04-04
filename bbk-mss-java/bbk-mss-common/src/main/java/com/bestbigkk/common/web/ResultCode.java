@@ -1,8 +1,6 @@
 package com.bestbigkk.common.web;
 
 /**
-* @author: 开
-* @date: 2020-03-23 19:16:40
 * @describe: 响应状态枚举
 */
 public enum ResultCode {

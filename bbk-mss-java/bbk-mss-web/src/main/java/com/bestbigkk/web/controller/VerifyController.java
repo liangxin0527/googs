@@ -25,8 +25,6 @@ import java.util.Objects;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author: 开
- * @date: 2020-04-19 18:57:11
  * @describe: 用户控制器
  */
 @RW

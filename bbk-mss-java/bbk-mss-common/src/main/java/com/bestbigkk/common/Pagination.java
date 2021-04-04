@@ -11,8 +11,6 @@ import java.util.Arrays;
 import java.util.Objects;
 
 /**
-* @author: 开
-* @date: 2020-04-19 20:14:58
 * @describe: 分页对象
 */
 @Data

@@ -7,8 +7,6 @@ import org.apache.shiro.authc.AuthenticationToken;
 import javax.servlet.ServletRequest;
 
 /**
-* @author: 开
-* @date: 2020-03-25 17:24:15
 * @describe: 令牌
 */
 @Data

@@ -16,7 +16,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.PrintWriter;
 
 /**
-* @author: 开
 * @date: 2020-03-25 18:38:16
 * @describe: 自定义一个Filter，用来拦截所有的请求判断是否携带Token
 *   isAccessAllowed()判断是否携带了有效的JwtToken

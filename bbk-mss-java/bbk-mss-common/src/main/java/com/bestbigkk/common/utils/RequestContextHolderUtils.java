@@ -10,8 +10,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
-* @author: 开
-* @date: 2020-03-23 19:31:21
 * @describe: web域对象快速获取
 */
 public class RequestContextHolderUtils {

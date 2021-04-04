@@ -6,11 +6,8 @@ import com.bestbigkk.persistence.entity.MaterialCategoryPO;
 /**
  * <p>
  *  服务类
- * </p>
- *
- * @author xugongkai
- * @since 2020-04-19
- */
+ * </p>*/
+
 public interface IMaterialCategoryService extends IService<MaterialCategoryPO> {
 
 }

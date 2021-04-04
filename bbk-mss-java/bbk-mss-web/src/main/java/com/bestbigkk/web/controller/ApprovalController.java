@@ -18,8 +18,6 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Objects;
 
 /**
- * @author: 开
- * @date: 2020-04-19 18:57:11
  * @describe: 用户控制器
  */
 @RW

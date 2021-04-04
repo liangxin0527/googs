@@ -16,8 +16,6 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Base64;
 
 /**
-* @author: 开
-* @date: 2020-03-27 14:28:58
 * @describe: AES工具
 */
 @Component

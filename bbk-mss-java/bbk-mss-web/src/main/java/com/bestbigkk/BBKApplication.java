@@ -13,9 +13,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 
 /**
- * @author: 开
- * @date: 2020-03-23 15:23:53
- * @describe: bestbigkk
+启动类
  */
 @SpringBootApplication
 @EnableAsync
@@ -37,6 +35,4 @@ public class BBKApplication {
         System.out.println("Path: " + path);
         System.out.println("------------");
     }
-
-    //TODO: 应用下线之后，更新Redis中机器数量标识。
 }

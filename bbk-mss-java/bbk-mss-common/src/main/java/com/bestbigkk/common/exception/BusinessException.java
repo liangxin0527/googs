@@ -4,8 +4,6 @@ import com.bestbigkk.common.web.ResultCode;
 import lombok.Data;
 
 /**
-* @author: 开
-* @date: 2020-03-24 09:26:55
 * @describe: 常规业务异常
 */
 @Data

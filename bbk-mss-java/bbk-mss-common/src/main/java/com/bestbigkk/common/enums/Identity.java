@@ -1,8 +1,6 @@
 package com.bestbigkk.common.enums;
 
 /**
-* @author: 开
-* @date: 2020-04-19 20:01:03
 * @describe: 系统身份
 */
 public enum  Identity {

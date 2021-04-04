@@ -8,8 +8,6 @@ import io.jsonwebtoken.*;
 import org.springframework.stereotype.Component;
 
 /**
-* @author: 开
-* @date: 2020-03-25 18:00:55
 * @describe: Jwt
 */
 @Component

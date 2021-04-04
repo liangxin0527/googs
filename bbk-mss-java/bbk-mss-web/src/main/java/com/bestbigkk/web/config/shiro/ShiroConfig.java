@@ -27,7 +27,6 @@ import java.util.Objects;
 
 /**
  * @author: Scott
- * @date: 2018/2/7
  * @description: shiro 配置类
  */
 

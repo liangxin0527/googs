@@ -11,8 +11,6 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
-* @author: 开
-* @date: 2020-03-26 18:05:36
 * @describe: 示例Realm实现
 */
 @Component
